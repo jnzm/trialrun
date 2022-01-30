@@ -1,4 +1,4 @@
 # trialrun
-print ("Hello! Welcome to my website")
-input("Would you like to continue?"
-print("Thanks for coming here!")
+Hello! Welcome to my website
+Would you like to continue?
+Thanks for coming here!
